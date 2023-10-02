@@ -1,5 +1,8 @@
 # Customer Churn Prediction 💼
 
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ## Overview
 
 This repository contains code for predicting customer churn in a subscription-based service using a Logistic Regression algorithm. The project involves data preprocessing, visualization, and model training for predicting customer churn.
